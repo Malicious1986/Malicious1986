@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👨‍💻 About Me: 
+Senior Frontend Engineer with 11 years of successful software delivery experience. Expert in JavaScript, TypeScript, React, and GraphQL. Interested in AI integrations , web performance optimisation and accessibility. Developed Reddit’s AI-powered search tool, Answers, transforming how users query Reddit.
 
-<!--
-**Malicious1986/Malicious1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Over my career, I’ve delivered high-impact web apps across industries—from social platforms like Reddit to SaaS tools—specialising in building performant, scalable, and accessible UIs while leading cross-functional teams.
 
-Here are some ideas to get you started:
+🚀 My personal motto: "Build smart, ship smarter."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Programming Languages: JavaScript, TypeScript
+
+🔧 Technologies & Tools: React, Redux, GraphQL, Next.js, Vue.js, Angular, Lit.js, Jest, Playwright, Docker, Git
+
+☁️ Cloud: AWS, Vercel, CI/CD, Docker
+
+📊 Methodologies: SCRUM, Agile
+
+🌐 Interests: AI-powered UI, Server Components
+
+🎶 Outside of work, I create electronic music, play video & board games, and love experimenting in the kitchen.
